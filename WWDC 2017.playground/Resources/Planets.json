@@ -1,0 +1,57 @@
+{
+    "Planets": [
+                {
+                "Mercury": {
+                "Diameter": "3,031 miles",
+                "Rotation": "58.6 Days",
+                "Orbit": "88 Earth Days",
+                "Mass": "5.5% ",
+                "Moons" : "0"
+                },
+                "Venus": {
+                "Diameter": "7,521 miles",
+                "Rotation": "241 Days",
+                "Orbit": "225 Earth Days",
+                "Mass": "95%",
+                "Moons" :"0"
+                
+                },
+                
+                "Mars": {
+                "Diameter": "4,217 miles",
+                "Rotation": "24 hours 37 minutes",
+                "Orbit": "687 earth days",
+                "Mass": "11% ",
+                "Moons" : "2"
+                },
+                "Jupiter": {
+                "Diameter": "88,730 miles",
+                "Rotation": "9 hours, 50 minutes",
+                "Orbit": "11.9 Earth years",
+                "Mass": "317.8",
+                "Moons" : "67"
+                },
+                "Saturn": {
+                "Diameter": "74,900 miles",
+                "Rotation": "10 hours, 39 minutes",
+                "Orbit": "29.6 Earth years",
+                "Mass": "95",
+                "Moons" : "62"
+                },
+                "Uranus": {
+                "Diameter": "31,763 miles",
+                "Rotation": "17 hours 54 minutes",
+                "Orbit": "84 Earth years",
+                "Mass": "14.5",
+                "Moons" : "27"
+                },
+                "Neptune": {
+                "Diameter": "30,775 miles",
+                "Rotation": "19 hours 12 minutes",
+                "Orbit": "165 earth days",
+                "Mass": "17.2 ",
+                "Moons" : "14"
+                }
+                }
+                ]
+}
